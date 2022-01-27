@@ -1,2 +1,2 @@
 # iOS-UIkit
-Repo for UIkit projects
+Repository for UIkit projects
